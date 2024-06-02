@@ -14,11 +14,6 @@ The program boasts a user-friendly interface built with Java Swing GUI, ensuring
 ## Database Security
 The system employs a secure Java Derby database to store gym members' account credentials. This ensures reliable and secure data storage, safeguarding sensitive information from unauthorized access.
 
-## Benefits
-- **Increased Productivity**: Simplifies management tasks, allowing staff to focus on providing better service.
-- **Easy Transactions**: Facilitates smooth and efficient transactions for gym members.
-- **Secure Data Storage**: Protects members' information with robust database security measures.
-
 ## Usage
 1. **Launching the Application**: Run the main class to start the application.
 2. **Adding a Member**: Use the 'Add Member' function to input new member details into the database.
