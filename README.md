@@ -19,41 +19,11 @@ The system employs a secure Java Derby database to store gym members' account cr
 - **Easy Transactions**: Facilitates smooth and efficient transactions for gym members.
 - **Secure Data Storage**: Protects members' information with robust database security measures.
 
-## Getting Started
-### Prerequisites
-- Java Development Kit (JDK)
-- Java Derby database
-
-### Installation
-1. **Clone the repository**:
-    ```sh
-    git clone <repository-url>
-    ```
-2. **Navigate to the project directory**:
-    ```sh
-    cd gym-management-system
-    ```
-3. **Compile the project**:
-    ```sh
-    javac -cp .;path\to\derby.jar *.java
-    ```
-4. **Run the application**:
-    ```sh
-    java -cp .;path\to\derby.jar Main
-    ```
-
 ## Usage
 1. **Launching the Application**: Run the main class to start the application.
 2. **Adding a Member**: Use the 'Add Member' function to input new member details into the database.
 3. **Modifying Member Credentials**: Select a member and use the 'Modify' function to update their credentials.
 4. **Managing Subscriptions**: Choose a payment plan and assign it to a member's account.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for review.
-
 ## License
 This project is licensed under the MIT License.
-
----
-
-By using the Gym Management System, gym administrators can ensure efficient member management, secure data handling, and overall improved productivity.
