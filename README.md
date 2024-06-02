@@ -19,6 +19,3 @@ The system employs a secure Java Derby database to store gym members' account cr
 2. **Adding a Member**: Use the 'Add Member' function to input new member details into the database.
 3. **Modifying Member Credentials**: Select a member and use the 'Modify' function to update their credentials.
 4. **Managing Subscriptions**: Choose a payment plan and assign it to a member's account.
-
-## License
-This project is licensed under the MIT License.
